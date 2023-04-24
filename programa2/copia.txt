@@ -1,0 +1,2 @@
+Hola este es un fichero de prueba
+Estamos leyendo su contenido
